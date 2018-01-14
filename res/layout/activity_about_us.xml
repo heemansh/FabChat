@@ -48,7 +48,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="115dp"
                 android:fontFamily="cursive"
-                android:text="Aditya Kumar Pandey"
+                android:text="Himanshu Bansla"
                 android:textAlignment="center"
                 android:textAppearance="@style/TextAppearance.AppCompat"
                 android:textColor="@color/colorPrimary"
